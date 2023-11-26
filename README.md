@@ -5,4 +5,3 @@ Link to download page: https://addons.mozilla.org/en-US/firefox/addon/download-t
 
 A port of the Chrome extension: https://github.com/arktiv/table-csv-chrome/
 
-https://arktiv.site/extensions/
